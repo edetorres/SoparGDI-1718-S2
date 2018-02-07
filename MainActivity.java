@@ -6,9 +6,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import edu.salle.so.patitos.array;
-import edu.salle.compus.porta.el.soldador.a.l'examen;
+import edu.salle.compus.porta.el.soldador.a.lexamen;
 import edu.salle.dpo2.tot.es.public.i.ho.saps;
 import edu.salle.pgm1.algun.dia.sortiran.les.notes;
+import edu.salle.paed.arbre.de.grafs.de.hashtables.per.lexamen;
 
 public class MainActivity extends AppCompatActivity {
 
