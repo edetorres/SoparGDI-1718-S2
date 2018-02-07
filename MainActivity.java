@@ -43,7 +43,8 @@ public class MainActivity extends AppCompatActivity {
         public void onClick(DialogInterface dialogInterface, int i) {
             AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
             builder.setTitle("Convocatoria Sopar GDI");
-            String message = "Tasca i vins, Carrer de la Indústria, 118, 08025 Barcelona";
+            String message = "Tasca i vins, Carrer de la Indústria, 118, 08025 Barcelona" +
+            "\nRespon al correu que has rebut dient dient <Jo faig webs en Java>";
             builder.setMessage(message);
 
             AlertDialog dialog = builder.create();
